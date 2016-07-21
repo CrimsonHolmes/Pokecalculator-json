@@ -9,79 +9,79 @@
     "ChargeMove": ""
   },{
     "Id": "002",
-    "Name": "",
-    "Attack": "",
-    "Defense": "",
-    "Stamina": "",
+    "Name": "Ivysaur",
+    "Attack": "156",
+    "Defense": "158",
+    "Stamina": "120",
     "QuickMove": "",
     "ChargeMove": ""
   },{
     "Id": "003",
-    "Name": "",
-    "Attack": "",
-    "Defense": "",
-    "Stamina": "",
+    "Name": "Venusaur",
+    "Attack": "198",
+    "Defense": "200",
+    "Stamina": "160",
     "QuickMove": "",
     "ChargeMove": ""
   },{
     "Id": "004",
-    "Name": "",
-    "Attack": "",
-    "Defense": "",
-    "Stamina": "",
+    "Name": "Charmander",
+    "Attack": "128",
+    "Defense": "108",
+    "Stamina": "78",
     "QuickMove": "",
     "ChargeMove": ""
   },{
     "Id": "005",
-    "Name": "",
-    "Attack": "",
-    "Defense": "",
-    "Stamina": "",
+    "Name": "Charmeleon",
+    "Attack": "160",
+    "Defense": "140",
+    "Stamina": "116",
     "QuickMove": "",
     "ChargeMove": ""
   },{
     "Id": "006",
-    "Name": "",
-    "Attack": "",
-    "Defense": "",
-    "Stamina": "",
+    "Name": "Charizard",
+    "Attack": "212",
+    "Defense": "182",
+    "Stamina": "156",
     "QuickMove": "",
     "ChargeMove": ""
   },{
     "Id": "007",
-    "Name": "",
-    "Attack": "",
-    "Defense": "",
-    "Stamina": "",
+    "Name": "Squirtle",
+    "Attack": "112",
+    "Defense": "142",
+    "Stamina": "88",
     "QuickMove": "",
     "ChargeMove": ""
   },{
     "Id": "008",
-    "Name": "",
-    "Attack": "",
-    "Defense": "",
-    "Stamina": "",
+    "Name": "Wartortle",
+    "Attack": "144",
+    "Defense": "176",
+    "Stamina": "118",
     "QuickMove": "",
     "ChargeMove": ""
   },{
     "Id": "009",
-    "Name": "",
-    "Attack": "",
-    "Defense": "",
-    "Stamina": "",
+    "Name": "Blastoise",
+    "Attack": "186",
+    "Defense": "222",
+    "Stamina": "158",
     "QuickMove": "",
     "ChargeMove": ""
   },{
     "Id": "010",
-    "Name": "",
-    "Attack": "",
-    "Defense": "",
-    "Stamina": "",
+    "Name": "Caterpie",
+    "Attack": "62",
+    "Defense": "66",
+    "Stamina": "90",
     "QuickMove": "",
     "ChargeMove": ""
   },{
     "Id": "011",
-    "Name": "",
+    "Name": "Metapod",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -89,7 +89,7 @@
     "ChargeMove": ""
   },{
     "Id": "012",
-    "Name": "",
+    "Name": "Butterfree",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -97,7 +97,7 @@
     "ChargeMove": ""
   },{
     "Id": "013",
-    "Name": "",
+    "Name": "Weedle",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -105,7 +105,7 @@
     "ChargeMove": ""
   },{
     "Id": "014",
-    "Name": "",
+    "Name": "Kakuna",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -113,7 +113,7 @@
     "ChargeMove": ""
   },{
     "Id": "015",
-    "Name": "",
+    "Name": "Beedrill",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -121,7 +121,7 @@
     "ChargeMove": ""
   },{
     "Id": "016",
-    "Name": "",
+    "Name": "Pidgey",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -129,7 +129,7 @@
     "ChargeMove": ""
   },{
     "Id": "017",
-    "Name": "",
+    "Name": "Pidgeotto",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -137,7 +137,7 @@
     "ChargeMove": ""
   },{
     "Id": "018",
-    "Name": "",
+    "Name": "Pidgeot",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -145,7 +145,7 @@
     "ChargeMove": ""
   },{
     "Id": "019",
-    "Name": "",
+    "Name": "Rattata",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -153,7 +153,7 @@
     "ChargeMove": ""
   },{
     "Id": "020",
-    "Name": "",
+    "Name": "Raticate",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -161,7 +161,7 @@
     "ChargeMove": ""
   },{
     "Id": "021",
-    "Name": "",
+    "Name": "Spearow",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -169,7 +169,7 @@
     "ChargeMove": ""
   },{
     "Id": "022",
-    "Name": "",
+    "Name": "Fearow",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -177,7 +177,7 @@
     "ChargeMove": ""
   },{
     "Id": "023",
-    "Name": "",
+    "Name": "Ekans",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -185,7 +185,7 @@
     "ChargeMove": ""
   },{
     "Id": "024",
-    "Name": "",
+    "Name": "Arbok",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -193,7 +193,7 @@
     "ChargeMove": ""
   },{
     "Id": "025",
-    "Name": "",
+    "Name": "Pikachu",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -201,7 +201,7 @@
     "ChargeMove": ""
   },{
     "Id": "026",
-    "Name": "",
+    "Name": "Raichu",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -209,7 +209,7 @@
     "ChargeMove": ""
   },{
     "Id": "027",
-    "Name": "",
+    "Name": "Sandshrew",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -217,7 +217,7 @@
     "ChargeMove": ""
   },{
     "Id": "028",
-    "Name": "",
+    "Name": "Sandslash",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -225,7 +225,7 @@
     "ChargeMove": ""
   },{
     "Id": "029",
-    "Name": "",
+    "Name": "Nidoran♀",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -233,7 +233,7 @@
     "ChargeMove": ""
   },{
     "Id": "030",
-    "Name": "",
+    "Name": "Nidorina",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -241,7 +241,7 @@
     "ChargeMove": ""
   },{
     "Id": "031",
-    "Name": "",
+    "Name": "Nidoqueen",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -249,7 +249,7 @@
     "ChargeMove": ""
   },{
     "Id": "032",
-    "Name": "",
+    "Name": "Nidoran♂",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -257,7 +257,7 @@
     "ChargeMove": ""
   },{
     "Id": "033",
-    "Name": "",
+    "Name": "Nidorino",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -265,7 +265,7 @@
     "ChargeMove": ""
   },{
     "Id": "034",
-    "Name": "",
+    "Name": "Nidoking",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -273,7 +273,7 @@
     "ChargeMove": ""
   },{
     "Id": "035",
-    "Name": "",
+    "Name": "Clefairy",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -281,7 +281,7 @@
     "ChargeMove": ""
   },{
     "Id": "036",
-    "Name": "",
+    "Name": "Clefable",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -289,7 +289,7 @@
     "ChargeMove": ""
   },{
     "Id": "037",
-    "Name": "",
+    "Name": "Vulpix",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -297,7 +297,7 @@
     "ChargeMove": ""
   },{
     "Id": "038",
-    "Name": "",
+    "Name": "Ninetales",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -305,7 +305,7 @@
     "ChargeMove": ""
   },{
     "Id": "039",
-    "Name": "",
+    "Name": "Jigglypuff",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -313,7 +313,7 @@
     "ChargeMove": ""
   },{
     "Id": "040",
-    "Name": "",
+    "Name": "Wigglytuff",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -321,7 +321,7 @@
     "ChargeMove": ""
   },{
     "Id": "041",
-    "Name": "",
+    "Name": "Zubat",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -329,7 +329,7 @@
     "ChargeMove": ""
   },{
     "Id": "042",
-    "Name": "",
+    "Name": "Golbat",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -337,7 +337,7 @@
     "ChargeMove": ""
   },{
     "Id": "043",
-    "Name": "",
+    "Name": "Oddish",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -345,7 +345,7 @@
     "ChargeMove": ""
   },{
     "Id": "044",
-    "Name": "",
+    "Name": "Gloom",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -353,7 +353,7 @@
     "ChargeMove": ""
   },{
     "Id": "045",
-    "Name": "",
+    "Name": "Vileplume",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -361,7 +361,7 @@
     "ChargeMove": ""
   },{
     "Id": "046",
-    "Name": "",
+    "Name": "Paras",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -369,7 +369,7 @@
     "ChargeMove": ""
   },{
     "Id": "047",
-    "Name": "",
+    "Name": "Parasect",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -377,7 +377,7 @@
     "ChargeMove": ""
   },{
     "Id": "048",
-    "Name": "",
+    "Name": "Venonat",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -385,7 +385,7 @@
     "ChargeMove": ""
   },{
     "Id": "049",
-    "Name": "",
+    "Name": "Venomoth",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -393,7 +393,7 @@
     "ChargeMove": ""
   },{
     "Id": "050",
-    "Name": "",
+    "Name": "Diglett",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -401,7 +401,7 @@
     "ChargeMove": ""
   },{
     "Id": "051",
-    "Name": "",
+    "Name": "Dugtrio",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -409,7 +409,7 @@
     "ChargeMove": ""
   },{
     "Id": "052",
-    "Name": "",
+    "Name": "Meowth",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -417,7 +417,7 @@
     "ChargeMove": ""
   },{
     "Id": "053",
-    "Name": "",
+    "Name": "Persian",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -425,7 +425,7 @@
     "ChargeMove": ""
   },{
     "Id": "054",
-    "Name": "",
+    "Name": "Psyduck",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -433,7 +433,7 @@
     "ChargeMove": ""
   },{
     "Id": "055",
-    "Name": "",
+    "Name": "Golduck",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -441,7 +441,7 @@
     "ChargeMove": ""
   },{
     "Id": "056",
-    "Name": "",
+    "Name": "Mankey",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -449,7 +449,7 @@
     "ChargeMove": ""
   },{
     "Id": "057",
-    "Name": "",
+    "Name": "Primeape",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -457,7 +457,7 @@
     "ChargeMove": ""
   },{
     "Id": "058",
-    "Name": "",
+    "Name": "Growlithe",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -465,7 +465,7 @@
     "ChargeMove": ""
   },{
     "Id": "059",
-    "Name": "",
+    "Name": "Arcanine",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -473,7 +473,7 @@
     "ChargeMove": ""
   },{
     "Id": "060",
-    "Name": "",
+    "Name": "Poliwag",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -481,7 +481,7 @@
     "ChargeMove": ""
   },{
     "Id": "061",
-    "Name": "",
+    "Name": "Poliwhirl",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -489,7 +489,7 @@
     "ChargeMove": ""
   },{
     "Id": "062",
-    "Name": "",
+    "Name": "Poliwrath",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -497,7 +497,7 @@
     "ChargeMove": ""
   },{
     "Id": "063",
-    "Name": "",
+    "Name": "Abra",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -505,7 +505,7 @@
     "ChargeMove": ""
   },{
     "Id": "064",
-    "Name": "",
+    "Name": "Kadabra",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -513,7 +513,7 @@
     "ChargeMove": ""
   },{
     "Id": "065",
-    "Name": "",
+    "Name": "Alakazam",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -521,7 +521,7 @@
     "ChargeMove": ""
   },{
     "Id": "066",
-    "Name": "",
+    "Name": "Machop",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -529,7 +529,7 @@
     "ChargeMove": ""
   },{
     "Id": "067",
-    "Name": "",
+    "Name": "Machoke",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -537,7 +537,7 @@
     "ChargeMove": ""
   },{
     "Id": "068",
-    "Name": "",
+    "Name": "Machamp",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -545,7 +545,7 @@
     "ChargeMove": ""
   },{
     "Id": "069",
-    "Name": "",
+    "Name": "Bellsprout",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -553,7 +553,7 @@
     "ChargeMove": ""
   },{
     "Id": "070",
-    "Name": "",
+    "Name": "Weepinbell",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -561,7 +561,7 @@
     "ChargeMove": ""
   },{
     "Id": "071",
-    "Name": "",
+    "Name": "Victreebel",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -569,7 +569,7 @@
     "ChargeMove": ""
   },{
     "Id": "072",
-    "Name": "",
+    "Name": "Tentacool",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -577,7 +577,7 @@
     "ChargeMove": ""
   },{
     "Id": "073",
-    "Name": "",
+    "Name": "Tentacruel",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -585,7 +585,7 @@
     "ChargeMove": ""
   },{
     "Id": "074",
-    "Name": "",
+    "Name": "Geodude",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -593,7 +593,7 @@
     "ChargeMove": ""
   },{
     "Id": "075",
-    "Name": "",
+    "Name": "Graveler",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -601,7 +601,7 @@
     "ChargeMove": ""
   },{
     "Id": "076",
-    "Name": "",
+    "Name": "Golem",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -609,7 +609,7 @@
     "ChargeMove": ""
   },{
     "Id": "077",
-    "Name": "",
+    "Name": "Ponyta",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -617,7 +617,7 @@
     "ChargeMove": ""
   },{
     "Id": "078",
-    "Name": "",
+    "Name": "Rapidash",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -625,7 +625,7 @@
     "ChargeMove": ""
   },{
     "Id": "079",
-    "Name": "",
+    "Name": "Slowpoke",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -633,7 +633,7 @@
     "ChargeMove": ""
   },{
     "Id": "080",
-    "Name": "",
+    "Name": "Slowbro",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -641,7 +641,7 @@
     "ChargeMove": ""
   },{
     "Id": "081",
-    "Name": "",
+    "Name": "Magnemite",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -649,7 +649,7 @@
     "ChargeMove": ""
   },{
     "Id": "082",
-    "Name": "",
+    "Name": "Magneton",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -657,7 +657,7 @@
     "ChargeMove": ""
   },{
     "Id": "083",
-    "Name": "",
+    "Name": "Farfetch'd",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -665,7 +665,7 @@
     "ChargeMove": ""
   },{
     "Id": "084",
-    "Name": "",
+    "Name": "Doduo",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -673,7 +673,7 @@
     "ChargeMove": ""
   },{
     "Id": "085",
-    "Name": "",
+    "Name": "Dodrio",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -681,7 +681,7 @@
     "ChargeMove": ""
   },{
     "Id": "086",
-    "Name": "",
+    "Name": "Seel",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -689,7 +689,7 @@
     "ChargeMove": ""
   },{
     "Id": "087",
-    "Name": "",
+    "Name": "Dewgong",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -697,7 +697,7 @@
     "ChargeMove": ""
   },{
     "Id": "088",
-    "Name": "",
+    "Name": "Grimer",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -705,7 +705,7 @@
     "ChargeMove": ""
   },{
     "Id": "089",
-    "Name": "",
+    "Name": "Muk",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -713,7 +713,7 @@
     "ChargeMove": ""
   },{
     "Id": "090",
-    "Name": "",
+    "Name": "Shellder",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -721,7 +721,7 @@
     "ChargeMove": ""
   },{
     "Id": "091",
-    "Name": "",
+    "Name": "Cloyster",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -729,7 +729,7 @@
     "ChargeMove": ""
   },{
     "Id": "092",
-    "Name": "",
+    "Name": "Gastly",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -737,7 +737,7 @@
     "ChargeMove": ""
   },{
     "Id": "093",
-    "Name": "",
+    "Name": "Haunter",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -745,7 +745,7 @@
     "ChargeMove": ""
   },{
     "Id": "094",
-    "Name": "",
+    "Name": "Gengar",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -753,7 +753,7 @@
     "ChargeMove": ""
   },{
     "Id": "095",
-    "Name": "",
+    "Name": "Onix",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -761,7 +761,7 @@
     "ChargeMove": ""
   },{
     "Id": "096",
-    "Name": "",
+    "Name": "Drowzee",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -769,7 +769,7 @@
     "ChargeMove": ""
   },{
     "Id": "097",
-    "Name": "",
+    "Name": "Hypno",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -777,7 +777,7 @@
     "ChargeMove": ""
   },{
     "Id": "098",
-    "Name": "",
+    "Name": "Krabby",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -785,7 +785,7 @@
     "ChargeMove": ""
   },{
     "Id": "099",
-    "Name": "",
+    "Name": "Kingler",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -793,7 +793,7 @@
     "ChargeMove": ""
   },{
     "Id": "100",
-    "Name": "",
+    "Name": "Voltorb",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -801,7 +801,7 @@
     "ChargeMove": ""
   },{
     "Id": "101",
-    "Name": "",
+    "Name": "Electrode",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -809,7 +809,7 @@
     "ChargeMove": ""
   },{
     "Id": "102",
-    "Name": "",
+    "Name": "Exeggcute",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -817,7 +817,7 @@
     "ChargeMove": ""
   },{
     "Id": "103",
-    "Name": "",
+    "Name": "Exeggutor",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -825,7 +825,7 @@
     "ChargeMove": ""
   },{
     "Id": "104",
-    "Name": "",
+    "Name": "Cubone",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -833,7 +833,7 @@
     "ChargeMove": ""
   },{
     "Id": "105",
-    "Name": "",
+    "Name": "Marowak",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -841,7 +841,7 @@
     "ChargeMove": ""
   },{
     "Id": "106",
-    "Name": "",
+    "Name": "Hitmonlee",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -849,7 +849,7 @@
     "ChargeMove": ""
   },{
     "Id": "107",
-    "Name": "",
+    "Name": "hitmonchan",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -857,7 +857,7 @@
     "ChargeMove": ""
   },{
     "Id": "108",
-    "Name": "",
+    "Name": "Lickitung",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -865,7 +865,7 @@
     "ChargeMove": ""
   },{
     "Id": "109",
-    "Name": "",
+    "Name": "Koffing",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -873,7 +873,7 @@
     "ChargeMove": ""
   },{
     "Id": "110",
-    "Name": "",
+    "Name": "Weezing",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -881,7 +881,7 @@
     "ChargeMove": ""
   },{
     "Id": "111",
-    "Name": "",
+    "Name": "Rhyhorn",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -889,7 +889,7 @@
     "ChargeMove": ""
   },{
     "Id": "112",
-    "Name": "",
+    "Name": "Rhydon",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -897,7 +897,7 @@
     "ChargeMove": ""
   },{
     "Id": "113",
-    "Name": "",
+    "Name": "Chansey",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -905,7 +905,7 @@
     "ChargeMove": ""
   },{
     "Id": "114",
-    "Name": "",
+    "Name": "Tangela",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -913,7 +913,7 @@
     "ChargeMove": ""
   },{
     "Id": "115",
-    "Name": "",
+    "Name": "Kangaskhan",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -921,7 +921,7 @@
     "ChargeMove": ""
   },{
     "Id": "116",
-    "Name": "",
+    "Name": "Horsea",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -929,7 +929,7 @@
     "ChargeMove": ""
   },{
     "Id": "117",
-    "Name": "",
+    "Name": "Seadra",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -937,7 +937,7 @@
     "ChargeMove": ""
   },{
     "Id": "118",
-    "Name": "",
+    "Name": "Goldeen",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -945,7 +945,7 @@
     "ChargeMove": ""
   },{
     "Id": "119",
-    "Name": "",
+    "Name": "Seaking",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -953,7 +953,7 @@
     "ChargeMove": ""
   },{
     "Id": "120",
-    "Name": "",
+    "Name": "Staryu",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -961,7 +961,7 @@
     "ChargeMove": ""
   },{
     "Id": "121",
-    "Name": "",
+    "Name": "Starmie",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -969,7 +969,7 @@
     "ChargeMove": ""
   },{
     "Id": "122",
-    "Name": "",
+    "Name": "Mr. Mime",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -977,7 +977,7 @@
     "ChargeMove": ""
   },{
     "Id": "123",
-    "Name": "",
+    "Name": "Scyther",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -985,7 +985,7 @@
     "ChargeMove": ""
   },{
     "Id": "124",
-    "Name": "",
+    "Name": "Jynx",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -993,7 +993,7 @@
     "ChargeMove": ""
   },{
     "Id": "125",
-    "Name": "",
+    "Name": "Electabuzz",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -1001,7 +1001,7 @@
     "ChargeMove": ""
   },{
     "Id": "126",
-    "Name": "",
+    "Name": "Magmar",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -1009,7 +1009,7 @@
     "ChargeMove": ""
   },{
     "Id": "127",
-    "Name": "",
+    "Name": "Pinsir",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -1017,7 +1017,7 @@
     "ChargeMove": ""
   },{
     "Id": "128",
-    "Name": "",
+    "Name": "Tauros",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -1025,7 +1025,7 @@
     "ChargeMove": ""
   },{
     "Id": "129",
-    "Name": "",
+    "Name": "Magikarp",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -1033,7 +1033,7 @@
     "ChargeMove": ""
   },{
     "Id": "130",
-    "Name": "",
+    "Name": "Gyarados",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -1041,7 +1041,7 @@
     "ChargeMove": ""
   },{
     "Id": "131",
-    "Name": "",
+    "Name": "Lapras",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -1049,7 +1049,7 @@
     "ChargeMove": ""
   },{
     "Id": "132",
-    "Name": "",
+    "Name": "Ditto",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -1057,7 +1057,7 @@
     "ChargeMove": ""
   },{
     "Id": "133",
-    "Name": "",
+    "Name": "Eevee",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -1065,7 +1065,7 @@
     "ChargeMove": ""
   },{
     "Id": "134",
-    "Name": "",
+    "Name": "Vaporeon",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -1073,7 +1073,7 @@
     "ChargeMove": ""
   },{
     "Id": "135",
-    "Name": "",
+    "Name": "Jolteon",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -1081,7 +1081,7 @@
     "ChargeMove": ""
   },{
     "Id": "136",
-    "Name": "",
+    "Name": "Flareon",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -1089,7 +1089,7 @@
     "ChargeMove": ""
   },{
     "Id": "137",
-    "Name": "",
+    "Name": "Porygon",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -1097,7 +1097,7 @@
     "ChargeMove": ""
   },{
     "Id": "138",
-    "Name": "",
+    "Name": "Omanyte",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -1105,7 +1105,7 @@
     "ChargeMove": ""
   },{
     "Id": "139",
-    "Name": "",
+    "Name": "Omastar",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -1113,7 +1113,7 @@
     "ChargeMove": ""
   },{
     "Id": "140",
-    "Name": "",
+    "Name": "Kabuto",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -1121,7 +1121,7 @@
     "ChargeMove": ""
   },{
     "Id": "141",
-    "Name": "",
+    "Name": "Kabutops",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -1129,7 +1129,7 @@
     "ChargeMove": ""
   },{
     "Id": "142",
-    "Name": "",
+    "Name": "Aerodactyl",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -1137,7 +1137,7 @@
     "ChargeMove": ""
   },{
     "Id": "143",
-    "Name": "",
+    "Name": "Snorlax",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -1145,7 +1145,7 @@
     "ChargeMove": ""
   },{
     "Id": "144",
-    "Name": "",
+    "Name": "Articuno",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -1153,7 +1153,7 @@
     "ChargeMove": ""
   },{
     "Id": "145",
-    "Name": "",
+    "Name": "Zapdos",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -1161,7 +1161,7 @@
     "ChargeMove": ""
   },{
     "Id": "146",
-    "Name": "",
+    "Name": "Moltres",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -1169,7 +1169,7 @@
     "ChargeMove": ""
   },{
     "Id": "147",
-    "Name": "",
+    "Name": "Dratini",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -1177,7 +1177,7 @@
     "ChargeMove": ""
   },{
     "Id": "148",
-    "Name": "",
+    "Name": "Dragonair",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -1185,7 +1185,7 @@
     "ChargeMove": ""
   },{
     "Id": "149",
-    "Name": "",
+    "Name": "Dragonite",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -1193,7 +1193,7 @@
     "ChargeMove": ""
   },{
     "Id": "150",
-    "Name": "",
+    "Name": "Mewtwo",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
@@ -1201,7 +1201,7 @@
     "ChargeMove": ""
   },{
     "Id": "151",
-    "Name": "",
+    "Name": "Mew",
     "Attack": "",
     "Defense": "",
     "Stamina": "",
