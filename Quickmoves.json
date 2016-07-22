@@ -1,1 +1,250 @@
-
+{
+  "QuickMoves":[{
+    "ID": "01",
+    "English": "Acid",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "02",
+    "English": "Bite",
+    "Spanish": "Mordisco",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "03",
+    "English": "Bubble",
+    "Spanish": "Burbuja",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "04",
+    "English": "Bug Bite",
+    "Spanish": "Picadura",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "05",
+    "English": "Bullet Punch",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "06",
+    "English": "Confusion",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "07",
+    "English": "Cut",
+    "Spanish": "Corte",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "08",
+    "English": "Dragon Breath",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "09",
+    "English": "Ember",
+    "Spanish": "Ascuas",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "10",
+    "English": "Feint Attack",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "11",
+    "English": "Fire Fang",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "12",
+    "English": "Frost Breath",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "13",
+    "English": "Fury Cutter",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "14",
+    "English": "Ice Shard",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "15",
+    "English": "Karate Chop",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "16",
+    "English": "Lick",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "17",
+    "English": "Low Kick",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "18",
+    "English": "Metal Claw",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "19",
+    "English": "Mud Shot",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "20",
+    "English": "Mud Slap",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "21",
+    "English": "Peck",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "22",
+    "English": "Poison Jab",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "23",
+    "English": "Poison Sting",
+    "Spanish": "Picotazo Ven.",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "24",
+    "English": "Pound",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "25",
+    "English": "Psycho Cut",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "26",
+    "English": "Quick Attack",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "27",
+    "English": "Razor Leaf",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "28",
+    "English": "Rock Smash",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "29",
+    "English": "Rock Throw",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "30",
+    "English": "Scratch",
+    "Spanish": "Arañazo",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "31",
+    "English": "Shadow Claw",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "32",
+    "English": "Spark",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "33",
+    "English": "Splash",
+    "Spanish": "Salpicadura",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "34",
+    "English": "Steel Wing",
+    "Spanish": "Ala Acero",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "35",
+    "English": "Sucker Punch",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "36",
+    "English": "Tackle",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "37",
+    "English": "Thunder Shock",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "38",
+    "English": "Vine Whip",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "39",
+    "English": "Water Gun",
+    "Spanish": "Pistola Agua",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "40",
+    "English": "Wing Attack",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "41",
+    "English": "Zen Headbutt",
+    "Spanish": "Cabezazo Zen",
+    "French": "",
+    "German": ""
+  }
+  ]
+}
