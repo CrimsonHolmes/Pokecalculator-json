@@ -1,1 +1,502 @@
-
+{
+  "ChargeMoves":[{
+    "ID": "01",
+    "English": "Aerial Ace",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "02",
+    "English": "Air Cutter",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "03",
+    "English": "Ancient Power",
+    "Spanish": "Poder Pasado",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "04",
+    "English": "Aqua Jet",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "05",
+    "English": "Aqua Tail",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "06",
+    "English": "Blizzard",
+    "Spanish": "Ventisca",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "07",
+    "English": "Body Slam",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "08",
+    "English": "Bone Club",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "09",
+    "English": "Brick Break",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "10",
+    "English": "Brine",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "11",
+    "English": "Bubble Beam",
+    "Spanish": "Rayo Burbuja",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "12",
+    "English": "Bug Buzz",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "13",
+    "English": "Bulldoze",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "14",
+    "English": "Cross Chop",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "15",
+    "English": "Cross Poison",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "16",
+    "English": "Dark Pulse",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "17",
+    "English": "Drazzling Gleam",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "18",
+    "English": "Dig",
+    "Spanish": "Excavar",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "19",
+    "English": "Discarming Voice",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "20",
+    "English": "Dischange",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "21",
+    "English": "Dragon Claw",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "22",
+    "English": "Dragon Pulse",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "23",
+    "English": "Draining Kiss",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "24",
+    "English": "Drill Peck",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "25",
+    "English": "Drill Run",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "26",
+    "English": "Earthquake",
+    "Spanish": "Terremoto",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "27",
+    "English": "Fire Blast",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "28",
+    "English": "Fire Punch",
+    "Spanish": "Puño Fuego",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "29",
+    "English": "Flame Burst",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "30",
+    "English": "Flame Charge",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "31",
+    "English": "Flame Wheel",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "32",
+    "English": "Flamethrower",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "33",
+    "English": "Flash Cannon",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "34",
+    "English": "Gunk Shot",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "35",
+    "English": "Heat Wave",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "36",
+    "English": "Horn Attack",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "37",
+    "English": "Hurricane",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "38",
+    "English": "Hydro Pump",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "39",
+    "English": "Hyper Beam",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "40",
+    "English": "Hyper Fang",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "41",
+    "English": "Ice Beam",
+    "Spanish": "Rayo Hielo",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "42",
+    "English": "Ice Punch",
+    "Spanish": "Puño Hielo",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "43",
+    "English": "Icy Wind",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "44",
+    "English": "Iron Head",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "45",
+    "English": "Leaf Blade",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "46",
+    "English": "Low Sweep",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "47",
+    "English": "Magnet Bomb",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "48",
+    "English": "Megahorn",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "49",
+    "English": "Moonblast",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "50",
+    "English": "Mud Bomb",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "51",
+    "English": "Night Slash",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "52",
+    "English": "Ominous Wind",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "53",
+    "English": "Petal Blizzard",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "54",
+    "English": "Play Rough",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "55",
+    "English": "Poison Fang",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "56",
+    "English": "Power Gem",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "57",
+    "English": "Power Whip",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "58",
+    "English": "Psybeam",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "59",
+    "English": "Psychic",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "60",
+    "English": "Psyshock",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "61",
+    "English": "Rock Slide",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "62",
+    "English": "Rock Tomb",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "63",
+    "English": "Scald",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "64",
+    "English": "Seed Bomb",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "65",
+    "English": "Shadow Ball",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "67",
+    "English": "Signal Beam",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "68",
+    "English": "Sludge",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "69",
+    "English": "Sludge Bomb",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "70",
+    "English": "Sludge Wave",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "71",
+    "English": "Solar Beam",
+    "Spanish": "Rayo Solar",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "72",
+    "English": "Stomp",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "73",
+    "English": "Stone Edge",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "74",
+    "English": "Struggle",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "75",
+    "English": "Submission",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "76",
+    "English": "Swift",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "77",
+    "English": "Thunder",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "78",
+    "English": "Thunder Punch",
+    "Spanish": "Puño Trueno",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "79",
+    "English": "Thunderbolt",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "80",
+    "English": "Twister",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "81",
+    "English": "Vice Grip",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "82",
+    "English": "Water Pulse",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "83",
+    "English": "Wrap",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  },{
+    "ID": "84",
+    "English": "X-Scissor",
+    "Spanish": "",
+    "French": "",
+    "German": ""
+  }
+  ]
+}
