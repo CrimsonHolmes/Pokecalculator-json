@@ -2,7 +2,7 @@
   "QuickMoves":[{
     "ID": "01",
     "English": "Acid",
-    "Spanish": "",
+    "Spanish": "Ácido",
     "French": "",
     "German": ""
   },{
@@ -26,13 +26,13 @@
   },{
     "ID": "05",
     "English": "Bullet Punch",
-    "Spanish": "",
+    "Spanish": "Puño bala",
     "French": "",
     "German": ""
   },{
     "ID": "06",
     "English": "Confusion",
-    "Spanish": "",
+    "Spanish": "Confusión",
     "French": "",
     "German": ""
   },{
@@ -44,7 +44,7 @@
   },{
     "ID": "08",
     "English": "Dragon Breath",
-    "Spanish": "",
+    "Spanish": "Dragoaliento",
     "French": "",
     "German": ""
   },{
@@ -56,121 +56,121 @@
   },{
     "ID": "10",
     "English": "Feint Attack",
-    "Spanish": "",
+    "Spanish": "Finta",
     "French": "",
     "German": ""
   },{
     "ID": "11",
     "English": "Fire Fang",
-    "Spanish": "",
+    "Spanish": "Colmillo ígneo",
     "French": "",
     "German": ""
   },{
     "ID": "12",
     "English": "Frost Breath",
-    "Spanish": "",
+    "Spanish": "Vaho gélido",
     "French": "",
     "German": ""
   },{
     "ID": "13",
     "English": "Fury Cutter",
-    "Spanish": "",
+    "Spanish": "Corte furia",
     "French": "",
     "German": ""
   },{
     "ID": "14",
     "English": "Ice Shard",
-    "Spanish": "",
+    "Spanish": "Canto helado",
     "French": "",
     "German": ""
   },{
     "ID": "15",
     "English": "Karate Chop",
-    "Spanish": "",
+    "Spanish": "Golpe kárate",
     "French": "",
     "German": ""
   },{
     "ID": "16",
     "English": "Lick",
-    "Spanish": "",
+    "Spanish": "Lengüetazo",
     "French": "",
     "German": ""
   },{
     "ID": "17",
     "English": "Low Kick",
-    "Spanish": "",
+    "Spanish": "Patada baja",
     "French": "",
     "German": ""
   },{
     "ID": "18",
     "English": "Metal Claw",
-    "Spanish": "",
+    "Spanish": "Garra metal",
     "French": "",
     "German": ""
   },{
     "ID": "19",
     "English": "Mud Shot",
-    "Spanish": "",
+    "Spanish": "Disparo lodo",
     "French": "",
     "German": ""
   },{
     "ID": "20",
     "English": "Mud Slap",
-    "Spanish": "",
+    "Spanish": "Bofetón lodo",
     "French": "",
     "German": ""
   },{
     "ID": "21",
     "English": "Peck",
-    "Spanish": "",
+    "Spanish": "Picotazo",
     "French": "",
     "German": ""
   },{
     "ID": "22",
     "English": "Poison Jab",
-    "Spanish": "",
+    "Spanish": "Puya nociva",
     "French": "",
     "German": ""
   },{
     "ID": "23",
     "English": "Poison Sting",
-    "Spanish": "Picotazo Ven.",
+    "Spanish": "Picotazo veneno",
     "French": "",
     "German": ""
   },{
     "ID": "24",
     "English": "Pound",
-    "Spanish": "",
+    "Spanish": "Destructor",
     "French": "",
     "German": ""
   },{
     "ID": "25",
     "English": "Psycho Cut",
-    "Spanish": "",
+    "Spanish": "Psicocorte",
     "French": "",
     "German": ""
   },{
     "ID": "26",
     "English": "Quick Attack",
-    "Spanish": "",
+    "Spanish": "Ataque rápido",
     "French": "",
     "German": ""
   },{
     "ID": "27",
     "English": "Razor Leaf",
-    "Spanish": "",
+    "Spanish": "Hoja afilada",
     "French": "",
     "German": ""
   },{
     "ID": "28",
     "English": "Rock Smash",
-    "Spanish": "",
+    "Spanish": "Golpe roca",
     "French": "",
     "German": ""
   },{
     "ID": "29",
     "English": "Rock Throw",
-    "Spanish": "",
+    "Spanish": "Lanzarrocas",
     "French": "",
     "German": ""
   },{
@@ -182,13 +182,13 @@
   },{
     "ID": "31",
     "English": "Shadow Claw",
-    "Spanish": "",
+    "Spanish": "Garra umbría",
     "French": "",
     "German": ""
   },{
     "ID": "32",
     "English": "Spark",
-    "Spanish": "",
+    "Spanish": "Chispa",
     "French": "",
     "German": ""
   },{
@@ -200,31 +200,31 @@
   },{
     "ID": "34",
     "English": "Steel Wing",
-    "Spanish": "Ala Acero",
+    "Spanish": "Ala acero",
     "French": "",
     "German": ""
   },{
     "ID": "35",
     "English": "Sucker Punch",
-    "Spanish": "",
+    "Spanish": "Golpe bajo",
     "French": "",
     "German": ""
   },{
     "ID": "36",
     "English": "Tackle",
-    "Spanish": "",
+    "Spanish": "Placaje",
     "French": "",
     "German": ""
   },{
     "ID": "37",
     "English": "Thunder Shock",
-    "Spanish": "",
+    "Spanish": "Impactrueno",
     "French": "",
     "German": ""
   },{
     "ID": "38",
     "English": "Vine Whip",
-    "Spanish": "",
+    "Spanish": "Látigo cepa",
     "French": "",
     "German": ""
   },{
@@ -236,13 +236,13 @@
   },{
     "ID": "40",
     "English": "Wing Attack",
-    "Spanish": "",
+    "Spanish": "Ataque ala",
     "French": "",
     "German": ""
   },{
     "ID": "41",
     "English": "Zen Headbutt",
-    "Spanish": "Cabezazo Zen",
+    "Spanish": "Cabezazo zen",
     "French": "",
     "German": ""
   }
