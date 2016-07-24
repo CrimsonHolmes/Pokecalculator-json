@@ -2,13 +2,13 @@
   "ChargeMoves":[{
     "ID": "01",
     "English": "Aerial Ace",
-    "Spanish": "",
+    "Spanish": "Golpe aéreo",
     "French": "",
     "German": ""
   },{
     "ID": "02",
     "English": "Air Cutter",
-    "Spanish": "",
+    "Spanish": "Aire afilado",
     "French": "",
     "German": ""
   },{
@@ -20,13 +20,13 @@
   },{
     "ID": "04",
     "English": "Aqua Jet",
-    "Spanish": "",
+    "Spanish": "Acua jet",
     "French": "",
     "German": ""
   },{
     "ID": "05",
     "English": "Aqua Tail",
-    "Spanish": "",
+    "Spanish": "Acua cola",
     "French": "",
     "German": ""
   },{
@@ -38,25 +38,25 @@
   },{
     "ID": "07",
     "English": "Body Slam",
-    "Spanish": "",
+    "Spanish": "Golpe cuerpo",
     "French": "",
     "German": ""
   },{
     "ID": "08",
     "English": "Bone Club",
-    "Spanish": "",
+    "Spanish": "Hueso palo",
     "French": "",
     "German": ""
   },{
     "ID": "09",
     "English": "Brick Break",
-    "Spanish": "",
+    "Spanish": "Demolición",
     "French": "",
     "German": ""
   },{
     "ID": "10",
     "English": "Brine",
-    "Spanish": "",
+    "Spanish": "Salmuera",
     "French": "",
     "German": ""
   },{
@@ -68,37 +68,37 @@
   },{
     "ID": "12",
     "English": "Bug Buzz",
-    "Spanish": "",
+    "Spanish": "Zumbido",
     "French": "",
     "German": ""
   },{
     "ID": "13",
     "English": "Bulldoze",
-    "Spanish": "",
+    "Spanish": "Terratemblor",
     "French": "",
     "German": ""
   },{
     "ID": "14",
     "English": "Cross Chop",
-    "Spanish": "",
+    "Spanish": "Tajo cruzado",
     "French": "",
     "German": ""
   },{
     "ID": "15",
     "English": "Cross Poison",
-    "Spanish": "",
+    "Spanish": "Veneno X",
     "French": "",
     "German": ""
   },{
     "ID": "16",
     "English": "Dark Pulse",
-    "Spanish": "",
+    "Spanish": "Pulso umbrío",
     "French": "",
     "German": ""
   },{
     "ID": "17",
-    "English": "Drazzling Gleam",
-    "Spanish": "",
+    "English": "Dazzling Gleam",
+    "Spanish": "Brillo mágico",
     "French": "",
     "German": ""
   },{
@@ -110,43 +110,43 @@
   },{
     "ID": "19",
     "English": "Discarming Voice",
-    "Spanish": "",
+    "Spanish": "Voz cautivadora",
     "French": "",
     "German": ""
   },{
     "ID": "20",
     "English": "Discharge",
-    "Spanish": "",
+    "Spanish": "Chispazo",
     "French": "",
     "German": ""
   },{
     "ID": "21",
     "English": "Dragon Claw",
-    "Spanish": "",
+    "Spanish": "Garra dragón",
     "French": "",
     "German": ""
   },{
     "ID": "22",
     "English": "Dragon Pulse",
-    "Spanish": "",
+    "Spanish": "Pulso dragón",
     "French": "",
     "German": ""
   },{
     "ID": "23",
     "English": "Draining Kiss",
-    "Spanish": "",
+    "Spanish": "Beso drenaje",
     "French": "",
     "German": ""
   },{
     "ID": "24",
     "English": "Drill Peck",
-    "Spanish": "",
+    "Spanish": "Pico taladro",
     "French": "",
     "German": ""
   },{
     "ID": "25",
     "English": "Drill Run",
-    "Spanish": "",
+    "Spanish": "Taladradora",
     "French": "",
     "German": ""
   },{
@@ -158,7 +158,7 @@
   },{
     "ID": "27",
     "English": "Fire Blast",
-    "Spanish": "",
+    "Spanish": "Llamarada",
     "French": "",
     "German": ""
   },{
@@ -170,247 +170,247 @@
   },{
     "ID": "29",
     "English": "Flame Burst",
-    "Spanish": "",
+    "Spanish": "Pirotecnia",
     "French": "",
     "German": ""
   },{
     "ID": "30",
     "English": "Flame Charge",
-    "Spanish": "",
+    "Spanish": "Nitrocarga",
     "French": "",
     "German": ""
   },{
     "ID": "31",
     "English": "Flame Wheel",
-    "Spanish": "",
+    "Spanish": "Rueda fuego",
     "French": "",
     "German": ""
   },{
     "ID": "32",
     "English": "Flamethrower",
-    "Spanish": "",
+    "Spanish": "Lanzallamas",
     "French": "",
     "German": ""
   },{
     "ID": "33",
     "English": "Flash Cannon",
-    "Spanish": "",
+    "Spanish": "Foco resplandor",
     "French": "",
     "German": ""
   },{
     "ID": "34",
     "English": "Gunk Shot",
-    "Spanish": "",
+    "Spanish": "Lanza mugre",
     "French": "",
     "German": ""
   },{
     "ID": "35",
     "English": "Heat Wave",
-    "Spanish": "",
+    "Spanish": "Onda ígnea",
     "French": "",
     "German": ""
   },{
     "ID": "36",
     "English": "Horn Attack",
-    "Spanish": "",
+    "Spanish": "Cornada",
     "French": "",
     "German": ""
   },{
     "ID": "37",
     "English": "Hurricane",
-    "Spanish": "",
+    "Spanish": "Vendaval",
     "French": "",
     "German": ""
   },{
     "ID": "38",
     "English": "Hydro Pump",
-    "Spanish": "",
+    "Spanish": "Hidrobomba",
     "French": "",
     "German": ""
   },{
     "ID": "39",
     "English": "Hyper Beam",
-    "Spanish": "",
+    "Spanish": "Hiperrayo",
     "French": "",
     "German": ""
   },{
     "ID": "40",
     "English": "Hyper Fang",
-    "Spanish": "",
+    "Spanish": "Hipercolmillo",
     "French": "",
     "German": ""
   },{
     "ID": "41",
     "English": "Ice Beam",
-    "Spanish": "Rayo Hielo",
+    "Spanish": "Rayo hielo",
     "French": "",
     "German": ""
   },{
     "ID": "42",
     "English": "Ice Punch",
-    "Spanish": "Puño Hielo",
+    "Spanish": "Puño hielo",
     "French": "",
     "German": ""
   },{
     "ID": "43",
     "English": "Icy Wind",
-    "Spanish": "",
+    "Spanish": "Viento hielo",
     "French": "",
     "German": ""
   },{
     "ID": "44",
     "English": "Iron Head",
-    "Spanish": "",
+    "Spanish": "Cabeza de hierro",
     "French": "",
     "German": ""
   },{
     "ID": "45",
     "English": "Leaf Blade",
-    "Spanish": "",
+    "Spanish": "Hoja aguda",
     "French": "",
     "German": ""
   },{
     "ID": "46",
     "English": "Low Sweep",
-    "Spanish": "",
+    "Spanish": "Puntapié",
     "French": "",
     "German": ""
   },{
     "ID": "47",
     "English": "Magnet Bomb",
-    "Spanish": "",
+    "Spanish": "Bomba imán",
     "French": "",
     "German": ""
   },{
     "ID": "48",
     "English": "Megahorn",
-    "Spanish": "",
+    "Spanish": "Megacuerno",
     "French": "",
     "German": ""
   },{
     "ID": "49",
     "English": "Moonblast",
-    "Spanish": "",
+    "Spanish": "Fuerza lunar",
     "French": "",
     "German": ""
   },{
     "ID": "50",
     "English": "Mud Bomb",
-    "Spanish": "",
+    "Spanish": "Bomba fango",
     "French": "",
     "German": ""
   },{
     "ID": "51",
     "English": "Night Slash",
-    "Spanish": "",
+    "Spanish": "Tajo umbrío",
     "French": "",
     "German": ""
   },{
     "ID": "52",
     "English": "Ominous Wind",
-    "Spanish": "",
+    "Spanish": "Viento aciago",
     "French": "",
     "German": ""
   },{
     "ID": "53",
     "English": "Petal Blizzard",
-    "Spanish": "",
+    "Spanish": "Tormenta floral",
     "French": "",
     "German": ""
   },{
     "ID": "54",
     "English": "Play Rough",
-    "Spanish": "",
+    "Spanish": "Carantoña",
     "French": "",
     "German": ""
   },{
     "ID": "55",
     "English": "Poison Fang",
-    "Spanish": "",
+    "Spanish": "Colmillo veneno",
     "French": "",
     "German": ""
   },{
     "ID": "56",
     "English": "Power Gem",
-    "Spanish": "",
+    "Spanish": "Joya de luz",
     "French": "",
     "German": ""
   },{
     "ID": "57",
     "English": "Power Whip",
-    "Spanish": "",
+    "Spanish": "Latigazo",
     "French": "",
     "German": ""
   },{
     "ID": "58",
     "English": "Psybeam",
-    "Spanish": "",
+    "Spanish": "Psicorrayo",
     "French": "",
     "German": ""
   },{
     "ID": "59",
     "English": "Psychic",
-    "Spanish": "",
+    "Spanish": "Psíquico",
     "French": "",
     "German": ""
   },{
     "ID": "60",
     "English": "Psyshock",
-    "Spanish": "",
+    "Spanish": "Psicocarga",
     "French": "",
     "German": ""
   },{
     "ID": "61",
     "English": "Rock Slide",
-    "Spanish": "",
+    "Spanish": "Avalancha",
     "French": "",
     "German": ""
   },{
     "ID": "62",
     "English": "Rock Tomb",
-    "Spanish": "",
+    "Spanish": "Tumba rocas",
     "French": "",
     "German": ""
   },{
     "ID": "63",
     "English": "Scald",
-    "Spanish": "",
+    "Spanish": "Escaldar",
     "French": "",
     "German": ""
   },{
     "ID": "64",
     "English": "Seed Bomb",
-    "Spanish": "",
+    "Spanish": "Bomba germen",
     "French": "",
     "German": ""
   },{
     "ID": "65",
     "English": "Shadow Ball",
-    "Spanish": "",
+    "Spanish": "Bola sombra",
     "French": "",
     "German": ""
   },{
     "ID": "67",
     "English": "Signal Beam",
-    "Spanish": "",
+    "Spanish": "Doble rayo",
     "French": "",
     "German": ""
   },{
     "ID": "68",
     "English": "Sludge",
-    "Spanish": "",
+    "Spanish": "Residuos",
     "French": "",
     "German": ""
   },{
     "ID": "69",
     "English": "Sludge Bomb",
-    "Spanish": "",
+    "Spanish": "Bomba lodo",
     "French": "",
     "German": ""
   },{
     "ID": "70",
     "English": "Sludge Wave",
-    "Spanish": "",
+    "Spanish": "Onda tóxica",
     "French": "",
     "German": ""
   },{
@@ -422,37 +422,37 @@
   },{
     "ID": "72",
     "English": "Stomp",
-    "Spanish": "",
+    "Spanish": "Pisotón",
     "French": "",
     "German": ""
   },{
     "ID": "73",
     "English": "Stone Edge",
-    "Spanish": "",
+    "Spanish": "Roca afilada",
     "French": "",
     "German": ""
   },{
     "ID": "74",
     "English": "Struggle",
-    "Spanish": "",
+    "Spanish": "Estoicismo",
     "French": "",
     "German": ""
   },{
     "ID": "75",
     "English": "Submission",
-    "Spanish": "",
+    "Spanish": "Sumisión",
     "French": "",
     "German": ""
   },{
     "ID": "76",
     "English": "Swift",
-    "Spanish": "",
+    "Spanish": "Rapidez",
     "French": "",
     "German": ""
   },{
     "ID": "77",
     "English": "Thunder",
-    "Spanish": "",
+    "Spanish": "Trueno",
     "French": "",
     "German": ""
   },{
@@ -464,37 +464,37 @@
   },{
     "ID": "79",
     "English": "Thunderbolt",
-    "Spanish": "",
+    "Spanish": "Rayo",
     "French": "",
     "German": ""
   },{
     "ID": "80",
     "English": "Twister",
-    "Spanish": "",
+    "Spanish": "Ciclón",
     "French": "",
     "German": ""
   },{
     "ID": "81",
     "English": "Vice Grip",
-    "Spanish": "",
+    "Spanish": "Agarre",
     "French": "",
     "German": ""
   },{
     "ID": "82",
     "English": "Water Pulse",
-    "Spanish": "",
+    "Spanish": "Hidropulso",
     "French": "",
     "German": ""
   },{
     "ID": "83",
     "English": "Wrap",
-    "Spanish": "",
+    "Spanish": "Constricción",
     "French": "",
     "German": ""
   },{
     "ID": "84",
     "English": "X-Scissor",
-    "Spanish": "",
+    "Spanish": "Tijera X",
     "French": "",
     "German": ""
   }
