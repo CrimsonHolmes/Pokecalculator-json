@@ -189,7 +189,7 @@
 		"Attack": "166",
 		"Defense": "166",
 		"Stamina": "120",
-		"QuickMove": "02",
+		"QuickMove": "01",
 		"ChargeMove": "34"
 	}, {
 		"Id": "025",
@@ -206,7 +206,7 @@
 		"Defense": "154",
 		"Stamina": "120",
 		"QuickMove": "32",
-		"ChargeMove": "09"
+		"ChargeMove": "78"
 	}, {
 		"Id": "027",
 		"Name": "Sandshrew",
@@ -229,7 +229,7 @@
 		"Attack": "100",
 		"Defense": "104",
 		"Stamina": "110",
-		"QuickMove": "02",
+		"QuickMove": "23",
 		"ChargeMove": "07"
 	}, {
 		"Id": "030",
@@ -237,7 +237,7 @@
 		"Attack": "132",
 		"Defense": "136",
 		"Stamina": "140",
-		"QuickMove": "02",
+		"QuickMove": "23",
 		"ChargeMove": "69"
 	}, {
 		"Id": "031",
@@ -301,7 +301,7 @@
 		"Attack": "176",
 		"Defense": "194",
 		"Stamina": "146",
-		"QuickMove": "10",
+		"QuickMove": "09",
 		"ChargeMove": "32"
 	}, {
 		"Id": "039",
@@ -334,7 +334,7 @@
 		"Defense": "164",
 		"Stamina": "150",
 		"QuickMove": "40",
-		"ChargeMove": "52"
+		"ChargeMove": "02"
 	}, {
 		"Id": "043",
 		"Name": "Oddish",
@@ -438,7 +438,7 @@
 		"Defense": "176",
 		"Stamina": "160",
 		"QuickMove": "39",
-		"ChargeMove": "59"
+		"ChargeMove": "38"
 	}, {
 		"Id": "056",
 		"Name": "Mankey",
@@ -541,7 +541,7 @@
 		"Attack": "198",
 		"Defense": "180",
 		"Stamina": "180",
-		"QuickMove": "05",
+		"QuickMove": "15",
 		"ChargeMove": "14"
 	}, {
 		"Id": "069",
@@ -589,7 +589,7 @@
 		"Attack": "106",
 		"Defense": "118",
 		"Stamina": "80",
-		"QuickMove": "36",
+		"QuickMove": "29",
 		"ChargeMove": "61"
 	}, {
 		"Id": "075",
@@ -613,7 +613,7 @@
 		"Attack": "168",
 		"Defense": "138",
 		"Stamina": "100",
-		"QuickMove": "36",
+		"QuickMove": "09",
 		"ChargeMove": "27"
 	}, {
 		"Id": "078",
@@ -757,8 +757,8 @@
 		"Attack": "90",
 		"Defense": "186",
 		"Stamina": "70",
-		"QuickMove": "36",
-		"ChargeMove": "44"
+		"QuickMove": "29",
+		"ChargeMove": "73"
 	}, {
 		"Id": "096",
 		"Name": "Drowzee",
@@ -797,7 +797,7 @@
 		"Attack": "102",
 		"Defense": "124",
 		"Stamina": "80",
-		"QuickMove": "36",
+		"QuickMove": "32",
 		"ChargeMove": "79"
 	}, {
 		"Id": "101",
@@ -805,7 +805,7 @@
 		"Attack": "150",
 		"Defense": "174",
 		"Stamina": "120",
-		"QuickMove": "36",
+		"QuickMove": "32",
 		"ChargeMove": "79"
 	}, {
 		"Id": "102",
@@ -869,7 +869,7 @@
 		"Attack": "136",
 		"Defense": "142",
 		"Stamina": "80",
-		"QuickMove": "36",
+		"QuickMove": "01",
 		"ChargeMove": "69"
 	}, {
 		"Id": "110",
@@ -877,7 +877,7 @@
 		"Attack": "190",
 		"Defense": "198",
 		"Stamina": "130",
-		"QuickMove": "36",
+		"QuickMove": "01",
 		"ChargeMove": "69"
 	}, {
 		"Id": "111",
@@ -997,7 +997,7 @@
 		"Attack": "198",
 		"Defense": "160",
 		"Stamina": "130",
-		"QuickMove": "17",
+		"QuickMove": "37",
 		"ChargeMove": "79"
 	}, {
 		"Id": "126",
@@ -1014,7 +1014,7 @@
 		"Defense": "186",
 		"Stamina": "130",
 		"QuickMove": "13",
-		"ChargeMove": "75"
+		"ChargeMove": "84"
 	}, {
 		"Id": "128",
 		"Name": "Tauros",
@@ -1101,7 +1101,7 @@
 		"Attack": "132",
 		"Defense": "160",
 		"Stamina": "70",
-		"QuickMove": "19",
+		"QuickMove": "39",
 		"ChargeMove": "10"
 	}, {
 		"Id": "139",
@@ -1206,6 +1206,6 @@
 		"Defense": "220",
 		"Stamina": "200",
 		"QuickMove": "24",
-		"ChargeMove": "37"
+		"ChargeMove": "59"
 	}]
 }
