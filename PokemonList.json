@@ -22,7 +22,7 @@
 		"Defense": "200",
 		"Stamina": "160",
 		"QuickMove": "38",
-		"ChargeMove": "69"
+		"ChargeMove": "71"
 	}, {
 		"Id": "004",
 		"Name": "Charmander",
@@ -30,7 +30,7 @@
 		"Defense": "108",
 		"Stamina": "78",
 		"QuickMove": "30",
-		"ChargeMove": "32"
+		"ChargeMove": "29"
 	}, {
 		"Id": "005",
 		"Name": "Charmeleon",
@@ -46,14 +46,14 @@
 		"Defense": "182",
 		"Stamina": "156",
 		"QuickMove": "40",
-		"ChargeMove": "21"
+		"ChargeMove": "27"
 	}, {
 		"Id": "007",
 		"Name": "Squirtle",
 		"Attack": "112",
 		"Defense": "142",
 		"Stamina": "88",
-		"QuickMove": "36",
+		"QuickMove": "03",
 		"ChargeMove": "05"
 	}, {
 		"Id": "008",
@@ -94,7 +94,7 @@
 		"Defense": "144",
 		"Stamina": "120",
 		"QuickMove": "04",
-		"ChargeMove": "59"
+		"ChargeMove": "12"
 	}, {
 		"Id": "013",
 		"Name": "Weedle",
@@ -158,7 +158,7 @@
 		"Defense": "150",
 		"Stamina": "110",
 		"QuickMove": "02",
-		"ChargeMove": "40"
+		"ChargeMove": "39"
 	}, {
 		"Id": "021",
 		"Name": "Spearow",
@@ -166,7 +166,7 @@
 		"Defense": "78",
 		"Stamina": "80",
 		"QuickMove": "21",
-		"ChargeMove": "01"
+		"ChargeMove": "24"
 	}, {
 		"Id": "022",
 		"Name": "Fearow",
@@ -182,7 +182,7 @@
 		"Defense": "112",
 		"Stamina": "70",
 		"QuickMove": "23",
-		"ChargeMove": "69"
+		"ChargeMove": "34"
 	}, {
 		"Id": "024",
 		"Name": "Arbok",
@@ -198,7 +198,7 @@
 		"Defense": "108",
 		"Stamina": "70",
 		"QuickMove": "37",
-		"ChargeMove": "79"
+		"ChargeMove": "77"
 	}, {
 		"Id": "026",
 		"Name": "Raichu",
@@ -206,7 +206,7 @@
 		"Defense": "154",
 		"Stamina": "120",
 		"QuickMove": "32",
-		"ChargeMove": "78"
+		"ChargeMove": "77"
 	}, {
 		"Id": "027",
 		"Name": "Sandshrew",
@@ -230,7 +230,7 @@
 		"Defense": "104",
 		"Stamina": "110",
 		"QuickMove": "23",
-		"ChargeMove": "07"
+		"ChargeMove": "69"
 	}, {
 		"Id": "030",
 		"Name": "Nidorina",
@@ -246,7 +246,7 @@
 		"Defense": "190",
 		"Stamina": "180",
 		"QuickMove": "22",
-		"ChargeMove": "70"
+		"ChargeMove": "26"
 	}, {
 		"Id": "032",
 		"Name": "Nidoran♂",
@@ -254,14 +254,14 @@
 		"Defense": "94",
 		"Stamina": "92",
 		"QuickMove": "23",
-		"ChargeMove": "07"
+		"ChargeMove": "69"
 	}, {
 		"Id": "033",
 		"Name": "Nidorino",
 		"Attack": "142",
 		"Defense": "128",
 		"Stamina": "142",
-		"QuickMove": "23",
+		"QuickMove": "22",
 		"ChargeMove": "69"
 	}, {
 		"Id": "034",
@@ -269,8 +269,8 @@
 		"Attack": "204",
 		"Defense": "170",
 		"Stamina": "162",
-		"QuickMove": "23",
-		"ChargeMove": "70"
+		"QuickMove": "22",
+		"ChargeMove": "26"
 	}, {
 		"Id": "035",
 		"Name": "Clefairy",
@@ -278,7 +278,7 @@
 		"Defense": "124",
 		"Stamina": "140",
 		"QuickMove": "24",
-		"ChargeMove": "07"
+		"ChargeMove": "49"
 	}, {
 		"Id": "036",
 		"Name": "Clefable",
@@ -286,7 +286,7 @@
 		"Defense": "178",
 		"Stamina": "190",
 		"QuickMove": "24",
-		"ChargeMove": "59"
+		"ChargeMove": "49"
 	}, {
 		"Id": "037",
 		"Name": "Vulpix",
@@ -302,7 +302,7 @@
 		"Defense": "194",
 		"Stamina": "146",
 		"QuickMove": "09",
-		"ChargeMove": "32"
+		"ChargeMove": "27"
 	}, {
 		"Id": "039",
 		"Name": "Jigglypuff",
@@ -318,7 +318,7 @@
 		"Defense": "108",
 		"Stamina": "280",
 		"QuickMove": "24",
-		"ChargeMove": "54"
+		"ChargeMove": "39"
 	}, {
 		"Id": "041",
 		"Name": "Zubat",
@@ -334,7 +334,7 @@
 		"Defense": "164",
 		"Stamina": "150",
 		"QuickMove": "40",
-		"ChargeMove": "02"
+		"ChargeMove": "55"
 	}, {
 		"Id": "043",
 		"Name": "Oddish",
@@ -358,15 +358,15 @@
 		"Defense": "190",
 		"Stamina": "150",
 		"QuickMove": "27",
-		"ChargeMove": "53"
+		"ChargeMove": "71"
 	}, {
 		"Id": "046",
 		"Name": "Paras",
 		"Attack": "122",
 		"Defense": "120",
 		"Stamina": "70",
-		"QuickMove": "30",
-		"ChargeMove": "84"
+		"QuickMove": "04",
+		"ChargeMove": "64"
 	}, {
 		"Id": "047",
 		"Name": "Parasect",
@@ -374,7 +374,7 @@
 		"Defense": "170",
 		"Stamina": "120",
 		"QuickMove": "04",
-		"ChargeMove": "84"
+		"ChargeMove": "71"
 	}, {
 		"Id": "048",
 		"Name": "Venonat",
@@ -390,7 +390,7 @@
 		"Defense": "154",
 		"Stamina": "140",
 		"QuickMove": "04",
-		"ChargeMove": "59"
+		"ChargeMove": "12"
 	}, {
 		"Id": "050",
 		"Name": "Diglett",
@@ -398,7 +398,7 @@
 		"Defense": "86",
 		"Stamina": "20",
 		"QuickMove": "19",
-		"ChargeMove": "50"
+		"ChargeMove": "18"
 	}, {
 		"Id": "051",
 		"Name": "Dugtrio",
@@ -406,7 +406,7 @@
 		"Defense": "140",
 		"Stamina": "70",
 		"QuickMove": "19",
-		"ChargeMove": "73"
+		"ChargeMove": "26"
 	}, {
 		"Id": "052",
 		"Name": "Meowth",
@@ -469,15 +469,15 @@
 		"Attack": "230",
 		"Defense": "180",
 		"Stamina": "180",
-		"QuickMove": "02",
-		"ChargeMove": "32"
+		"QuickMove": "11",
+		"ChargeMove": "27"
 	}, {
 		"Id": "060",
 		"Name": "Poliwag",
 		"Attack": "108",
 		"Defense": "98",
 		"Stamina": "80",
-		"QuickMove": "19",
+		"QuickMove": "03",
 		"ChargeMove": "07"
 	}, {
 		"Id": "061",
@@ -485,15 +485,15 @@
 		"Attack": "132",
 		"Defense": "132",
 		"Stamina": "130",
-		"QuickMove": "19",
-		"ChargeMove": "50"
+		"QuickMove": "03",
+		"ChargeMove": "63"
 	}, {
 		"Id": "062",
 		"Name": "Poliwrath",
 		"Attack": "180",
 		"Defense": "180",
 		"Stamina": "202",
-		"QuickMove": "19",
+		"QuickMove": "03",
 		"ChargeMove": "38"
 	}, {
 		"Id": "063",
@@ -510,7 +510,7 @@
 		"Defense": "112",
 		"Stamina": "80",
 		"QuickMove": "25",
-		"ChargeMove": "65"
+		"ChargeMove": "58"
 	}, {
 		"Id": "065",
 		"Name": "Alakazam",
@@ -541,7 +541,7 @@
 		"Attack": "198",
 		"Defense": "180",
 		"Stamina": "180",
-		"QuickMove": "15",
+		"QuickMove": "17",
 		"ChargeMove": "14"
 	}, {
 		"Id": "069",
@@ -566,7 +566,7 @@
 		"Defense": "152",
 		"Stamina": "160",
 		"QuickMove": "27",
-		"ChargeMove": "69"
+		"ChargeMove": "57"
 	}, {
 		"Id": "072",
 		"Name": "Tentacool",
@@ -582,7 +582,7 @@
 		"Defense": "196",
 		"Stamina": "160",
 		"QuickMove": "22",
-		"ChargeMove": "70"
+		"ChargeMove": "38"
 	}, {
 		"Id": "074",
 		"Name": "Geodude",
@@ -622,7 +622,7 @@
 		"Defense": "170",
 		"Stamina": "130",
 		"QuickMove": "09",
-		"ChargeMove": "35"
+		"ChargeMove": "27"
 	}, {
 		"Id": "079",
 		"Name": "Slowpoke",
@@ -654,7 +654,7 @@
 		"Defense": "180",
 		"Stamina": "100",
 		"QuickMove": "32",
-		"ChargeMove": "20"
+		"ChargeMove": "33"
 	}, {
 		"Id": "083",
 		"Name": "Farfetch'd",
@@ -693,7 +693,7 @@
 		"Attack": "156",
 		"Defense": "192",
 		"Stamina": "180",
-		"QuickMove": "39",
+		"QuickMove": "12",
 		"ChargeMove": "06"
 	}, {
 		"Id": "088",
@@ -710,14 +710,14 @@
 		"Defense": "188",
 		"Stamina": "210",
 		"QuickMove": "22",
-		"ChargeMove": "69"
+		"ChargeMove": "34"
 	}, {
 		"Id": "090",
 		"Name": "Shellder",
 		"Attack": "120",
 		"Defense": "112",
 		"Stamina": "60",
-		"QuickMove": "36",
+		"QuickMove": "14",
 		"ChargeMove": "82"
 	}, {
 		"Id": "091",
@@ -726,7 +726,7 @@
 		"Defense": "196",
 		"Stamina": "100",
 		"QuickMove": "12",
-		"ChargeMove": "38"
+		"ChargeMove": "06"
 	}, {
 		"Id": "092",
 		"Name": "Gastly",
@@ -741,7 +741,7 @@
 		"Attack": "172",
 		"Defense": "118",
 		"Stamina": "90",
-		"QuickMove": "16",
+		"QuickMove": "31",
 		"ChargeMove": "69"
 	}, {
 		"Id": "094",
@@ -781,7 +781,7 @@
 		"Attack": "116",
 		"Defense": "110",
 		"Stamina": "60",
-		"QuickMove": "19",
+		"QuickMove": "03",
 		"ChargeMove": "82"
 	}, {
 		"Id": "099",
@@ -789,7 +789,7 @@
 		"Attack": "178",
 		"Defense": "168",
 		"Stamina": "110",
-		"QuickMove": "19",
+		"QuickMove": "18",
 		"ChargeMove": "84"
 	}, {
 		"Id": "100",
@@ -822,7 +822,7 @@
 		"Defense": "164",
 		"Stamina": "190",
 		"QuickMove": "41",
-		"ChargeMove": "59"
+		"ChargeMove": "71"
 	}, {
 		"Id": "104",
 		"Name": "Cubone",
@@ -845,7 +845,7 @@
 		"Attack": "148",
 		"Defense": "172",
 		"Stamina": "100",
-		"QuickMove": "17",
+		"QuickMove": "28",
 		"ChargeMove": "73"
 	}, {
 		"Id": "107",
@@ -853,7 +853,7 @@
 		"Attack": "138",
 		"Defense": "204",
 		"Stamina": "100",
-		"QuickMove": "05",
+		"QuickMove": "28",
 		"ChargeMove": "09"
 	}, {
 		"Id": "108",
@@ -861,8 +861,8 @@
 		"Attack": "126",
 		"Defense": "160",
 		"Stamina": "180",
-		"QuickMove": "16",
-		"ChargeMove": "57"
+		"QuickMove": "41",
+		"ChargeMove": "39"
 	}, {
 		"Id": "109",
 		"Name": "Koffing",
@@ -917,8 +917,8 @@
 		"Attack": "142",
 		"Defense": "178",
 		"Stamina": "210",
-		"QuickMove": "17",
-		"ChargeMove": "09"
+		"QuickMove": "20",
+		"ChargeMove": "26"
 	}, {
 		"Id": "116",
 		"Name": "Horsea",
@@ -926,7 +926,7 @@
 		"Defense": "100",
 		"Stamina": "60",
 		"QuickMove": "39",
-		"ChargeMove": "33"
+		"ChargeMove": "22"
 	}, {
 		"Id": "117",
 		"Name": "Seadra",
@@ -982,7 +982,7 @@
 		"Defense": "180",
 		"Stamina": "140",
 		"QuickMove": "34",
-		"ChargeMove": "84"
+		"ChargeMove": "12"
 	}, {
 		"Id": "124",
 		"Name": "Jynx",
@@ -998,7 +998,7 @@
 		"Defense": "160",
 		"Stamina": "130",
 		"QuickMove": "37",
-		"ChargeMove": "79"
+		"ChargeMove": "77"
 	}, {
 		"Id": "126",
 		"Name": "Magmar",
@@ -1006,14 +1006,14 @@
 		"Defense": "158",
 		"Stamina": "130",
 		"QuickMove": "09",
-		"ChargeMove": "32"
+		"ChargeMove": "27"
 	}, {
 		"Id": "127",
 		"Name": "Pinsir",
 		"Attack": "184",
 		"Defense": "186",
 		"Stamina": "130",
-		"QuickMove": "13",
+		"QuickMove": "28",
 		"ChargeMove": "84"
 	}, {
 		"Id": "128",
@@ -1021,8 +1021,8 @@
 		"Attack": "148",
 		"Defense": "184",
 		"Stamina": "150",
-		"QuickMove": "41",
-		"ChargeMove": "44"
+		"QuickMove": "36",
+		"ChargeMove": "26"
 	}, {
 		"Id": "129",
 		"Name": "Magikarp",
@@ -1046,7 +1046,7 @@
 		"Defense": "190",
 		"Stamina": "260",
 		"QuickMove": "12",
-		"ChargeMove": "53"
+		"ChargeMove": "06"
 	}, {
 		"Id": "132",
 		"Name": "Ditto",
@@ -1070,7 +1070,7 @@
 		"Defense": "168",
 		"Stamina": "260",
 		"QuickMove": "39",
-		"ChargeMove": "05"
+		"ChargeMove": "38"
 	}, {
 		"Id": "135",
 		"Name": "Jolteon",
@@ -1078,7 +1078,7 @@
 		"Defense": "174",
 		"Stamina": "130",
 		"QuickMove": "37",
-		"ChargeMove": "79"
+		"ChargeMove": "77"
 	}, {
 		"Id": "136",
 		"Name": "Flareon",
@@ -1086,7 +1086,7 @@
 		"Defense": "178",
 		"Stamina": "130",
 		"QuickMove": "09",
-		"ChargeMove": "32"
+		"ChargeMove": "27"
 	}, {
 		"Id": "137",
 		"Name": "Porygon",
@@ -1117,8 +1117,8 @@
 		"Attack": "148",
 		"Defense": "142",
 		"Stamina": "60",
-		"QuickMove": "19",
-		"ChargeMove": "03"
+		"QuickMove": "30",
+		"ChargeMove": "04"
 	}, {
 		"Id": "141",
 		"Name": "Kabutops",
@@ -1134,14 +1134,14 @@
 		"Defense": "162",
 		"Stamina": "160",
 		"QuickMove": "02",
-		"ChargeMove": "44"
+		"ChargeMove": "39"
 	}, {
 		"Id": "143",
 		"Name": "Snorlax",
 		"Attack": "180",
 		"Defense": "180",
 		"Stamina": "320",
-		"QuickMove": "16",
+		"QuickMove": "41",
 		"ChargeMove": "07"
 	}, {
 		"Id": "144",
@@ -1158,7 +1158,7 @@
 		"Defense": "194",
 		"Stamina": "180",
 		"QuickMove": "37",
-		"ChargeMove": "79"
+		"ChargeMove": "77"
 	}, {
 		"Id": "146",
 		"Name": "Moltres",
@@ -1166,7 +1166,7 @@
 		"Defense": "194",
 		"Stamina": "180",
 		"QuickMove": "09",
-		"ChargeMove": "32"
+		"ChargeMove": "27"
 	}, {
 		"Id": "147",
 		"Name": "Dratini",
@@ -1206,6 +1206,6 @@
 		"Defense": "220",
 		"Stamina": "200",
 		"QuickMove": "24",
-		"ChargeMove": "59"
+		"ChargeMove": "37"
 	}]
 }
